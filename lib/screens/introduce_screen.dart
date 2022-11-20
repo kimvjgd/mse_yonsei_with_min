@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:intro_slider/intro_slider.dart';
-import 'package:intro_slider/scrollbar_behavior_enum.dart';
-import 'package:intro_slider/slide_object.dart';
+/// 나중에 고치기!!
+// import 'package:intro_slider/scrollbar_behavior_enum.dart';
+// import 'package:intro_slider/slide_object.dart';
 import 'package:mse_yonsei/screens/setting_screen.dart';
 
 
@@ -167,7 +168,7 @@ class IntroScreenState extends State<IntroScreen> {
       backgroundColorAllSlides: Colors.grey,
 
       // Scrollbar
-      verticalScrollbarBehavior: scrollbarBehavior.SHOW_ALWAYS,
+      // verticalScrollbarBehavior: scrollbarBehavior.SHOW_ALWAYS,
     );
   }
 }
