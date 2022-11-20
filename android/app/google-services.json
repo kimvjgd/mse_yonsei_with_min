@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1034903777565",
+    "project_id": "mse-yonsei-46c86",
+    "storage_bucket": "mse-yonsei-46c86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034903777565:android:781e05890d4dbd5dcb31f4",
+        "android_client_info": {
+          "package_name": "com.dongpakka.mse_yonsei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034903777565-762sd549c50ivhfq2re3h4ht8995cgr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dongpakka.mse_yonsei",
+            "certificate_hash": "fe806dfb5ea8120ef25d8b7255b6a21d5612eaa8"
+          }
+        },
+        {
+          "client_id": "1034903777565-q7g2foicls0gd058kdpoeih5uc4u7qqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4J_2JtUUG2VeEwrfh17CzLuHcfqx38SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034903777565-q7g2foicls0gd058kdpoeih5uc4u7qqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
